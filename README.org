@@ -4,3 +4,5 @@ I'm learning the Wayland protocol.
 Dependencies are captured by an external flake, but TLDR: wayland, gcc, cmake(?). `wayland.xml` was pulled out of the package.
 
 Main resource is https://wayland-book.com/wayland-display.html
+
+[[https://nixos.wiki/wiki/Cheatsheet][Cheatsheet - NixOS Wiki]] -- helpful for introspecting packages like ~wayland~, necessary to build the package. Compiles off of an XML protocol apparently?
