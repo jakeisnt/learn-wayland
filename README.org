@@ -1,0 +1,4 @@
+#+TITLE: Learn Wayland
+
+I'm learning the Wayland protocol.
+Dependencies are captured by an external flake, but TLDR: wayland, gcc, cmake(?). `wayland.xml` was pulled out of the package.
